@@ -28,10 +28,6 @@ Works with **SBI, HDFC, ICICI, Axis, Kotak, Yes Bank** and almost all Indian ban
 
 #### Step 1: Download these 3 files in one folder
 
-### How to Run (Takes 2 minutes)
-
-#### Step 1: Download these 3 files in one folder
-
 bank_analyzer/
 
 ├── app.py
